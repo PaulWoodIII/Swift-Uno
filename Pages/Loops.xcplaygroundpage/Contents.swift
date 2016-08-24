@@ -16,5 +16,9 @@ items[0]
 for i in 0 ..< items.count {
     print(items[i])
 }
-//: there are many other ways to use loops but these two types of loops will get you very far. However if you'd like to learn more I recommend researching  `while` and `do while` loops which give you the ability to move through and array in a non-sequential manner.
-//: [Next](@next)
+/*: 
+ 
+ There are many other ways to use loops but these two types of loops will get you very far. However if you'd like to learn more I recommend researching  `while` and `do while` loops which give you the ability to move through and array in a non-sequential manner.
+
+ [Next](@next)
+ */
