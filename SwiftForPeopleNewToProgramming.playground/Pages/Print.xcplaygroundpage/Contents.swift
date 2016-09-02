@@ -11,15 +11,15 @@ print(false)
 //: Print works with variables as well
 var puppy = "archer"
 print(puppy)
-//: Remember how we created strings in the Types Playground? We can pass that generated String into the print function
+//: Remember how we created strings in the previous page? We can pass that generated String into the print function
 let wholeNumber = 1
 print("\(wholeNumber) plus \(wholeNumber) equals \(wholeNumber + wholeNumber)")
 //: Print can take more than one argument
 print("wholeNumber equals", wholeNumber)
-//: Print can take any number of arugments
+//: Print can take any number of arugments, as many as you are willing to type
 print(wholeNumber, "plus", wholeNumber, "equals", wholeNumber+wholeNumber )
-//: print has a few extra options you can use as well such as seperator and terminator
+//: print has a few extra options you can use as well such as seperator and terminator that can make your life easier
 print(wholeNumber, "plus", wholeNumber, "equals", wholeNumber+wholeNumber,separator: "-", terminator: "")
-//: you may have noticed
-
+//: Before you go one go take the next statement and print something of your own
+print()
 //: [Next](@next)

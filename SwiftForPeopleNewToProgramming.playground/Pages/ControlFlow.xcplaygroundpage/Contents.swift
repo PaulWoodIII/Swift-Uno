@@ -35,7 +35,7 @@ else {
  
  These expressions are like mathmatical expressions that have a left hand side and a right hand side. Like in Math we can also use parenthesis in our expressions to give presidence on what needs to be done first.
  
- If statements can be used with anything that can be evaluated to a true or false condition. Heres how to do a few comparisons between Strings, Doubles and booleans themselves using expressions that return a true or false value.
+ `if statements` can be used with anything that can be evaluated to a true or false condition. Heres how to do a few comparisons between Strings, Doubles and booleans themselves using expressions that return a true or false value.
  */
 let food = "apple"
 let fruit = "apple"
@@ -65,5 +65,25 @@ if i && (u || o) {
  
  Above are our first boolean opperators and they are very important. The First `&&` represnts the logical idea of `and`. The second `||` represents the logical idea of `or`. If statements will often require more than one thing to be true or false and these opperators allow us to compose the logic into a sentence like structure. `If i is true and if u or o is true then execute this code`.
  
+ Below you can see a few different `if statements` for you to change. Currently there are a lot of numbers that may be special to you that you could print a statement about instead of `Your number isn't very special` 
+ 
+ */
+var number = 10
+if number < 10 {
+    print("Your number is less than 10")
+}
+else if number == 10 {
+    print("Wow your number is a real 10!")
+}
+else if number == 42 {
+    print("Your number is the meaning of life")
+}
+else if number > 1980 && number < 1990 {
+    print("Your number is the the best decade")
+}
+else {
+    print("Your number isn't very special")
+}
+/*:
  [Next](@next)
 */

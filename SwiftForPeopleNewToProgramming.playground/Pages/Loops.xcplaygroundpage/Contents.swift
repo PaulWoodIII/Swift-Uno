@@ -1,7 +1,9 @@
 /*: 
  [Previous](@previous)
  
- Arrays are a common container of things. They are a difined using the syntax below using square bracks `[` and `]` with items seperated by commas `,`. Arrays are ordered left to right
+ # Loops
+ 
+ Arrays are a common container of things. They are a defined using the syntax below using square bracks `[` and `]` with items seperated by commas `,`. Arrays are ordered left to right
  
  */
 let items = ["a","b","c"]
@@ -18,6 +20,14 @@ for i in 0 ..< items.count {
 }
 /*: 
  
+ the above statement can be broken down into the following pattern
+*/
+/*
+ for value in range {
+    //code
+ }
+ */
+/*:
  There are many other ways to use loops but these two types of loops will get you very far. However if you'd like to learn more I recommend researching  `while` and `do while` loops which give you the ability to move through and array in a non-sequential manner.
 
  [Next](@next)
