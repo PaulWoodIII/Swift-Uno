@@ -9,8 +9,10 @@ Please remember your target audience when adding content to the website. This si
 The goal of the website is to get the Swift playground on the user's mac and the user reading it. currently the biggest gotcha to that is the user needs to download Xcode so a section on Xcode is currently what we need to work on
 
 ## Road Map
-[ ] Download link for the Swift Playground
-[ ] UI Layout
-[ ] How to install Xcode Section
-[ ] How to navigate Xcode in a playground view Section
-[ ] Done with Day One Swift, where to go next Section
+
+- [X] Download link for the Swift Playground
+- [ ] Logo
+- [ ] UI Layout
+- [ ] How to install Xcode Section
+- [ ] How to navigate Xcode in a playground view Section
+- [ ] Done with Day One Swift, where to go next Section

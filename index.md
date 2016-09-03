@@ -29,7 +29,7 @@ toc: false
 <div class="col-sm-4"> 
     <img alt="Code in a Swift Playground" src="/images/playground_Icon_360.png" class="img-responsive"> 
     <h3 class="text-center">Download the Playground</h3> 
-    <p class="text-center"><a class="btn btn-success btn-lg">Download</a></p>
+    <p class="text-center"><a class="btn btn-success btn-lg" href="https://github.com/PaulWoodIII/Swift-Uno/archive/master.zip">Download</a></p>
     <p class="text-center">Double Click the Playground and start learning how to code</p>
 </div>
 
