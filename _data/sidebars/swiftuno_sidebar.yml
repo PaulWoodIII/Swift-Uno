@@ -1,0 +1,18 @@
+ # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Table of Contents
+  product: Swift Uno
+  version:
+  folders:
+  - title: Setup
+    output: web
+    folderitems:
+      - title: Xcode
+        url: /swiftuno_xcode.html
+        output: web, pdf
+        type: page      
+      - title: Playground
+        url: /swiftuno_playground.html
+        output: web, pdf
+        type: page

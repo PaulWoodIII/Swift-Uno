@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "https://swift.uno"
 
 # gem "rails"
 gem 'github-pages'
