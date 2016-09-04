@@ -13,6 +13,8 @@ The goal of the website is to get the Swift playground on the user's mac and the
 - [X] Download link for the Swift Playground
 - [ ] Logo
 - [ ] UI Layout
+- [ ] Gradient Hero ala http://codepen.io/kevinjannis/pen/EgxbZQ number 7
+- [ ] Use Swift Orange and Developer Blue everywhere
 - [ ] How to install Xcode Section
 - [ ] How to navigate Xcode in a playground view Section
 - [ ] Done with Day One Swift, where to go next Section
